@@ -3,11 +3,8 @@
     <title>Milk</title>
 </head>
 <body>
-World
-<?php
-echo "<font color='red'>Hello There</font>";
-?>
-
+<h1>Welcome to the App app</h1>
+<a href="contact.php">Contact Us</a>
 
 </body>
 </html>
