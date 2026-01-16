@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/WebstormProjects/25-26_Jquery/.idea/25-26_Jquery.iml" filepath="$USER_HOME$/WebstormProjects/25-26_Jquery/.idea/25-26_Jquery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/app.iml" filepath="$PROJECT_DIR$/.idea/app.iml" />
     </modules>
   </component>

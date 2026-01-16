@@ -1,10 +1,5 @@
-<html>
-<head>
-    <title>Milk</title>
-</head>
-<body>
+
+<?php include "includes/header.php"; ?>
 <h1>Welcome to the App app</h1>
 <a href="contact.php">Contact Us</a>
-
-</body>
-</html>
+<?php include "includes/footer.php"; ?>
