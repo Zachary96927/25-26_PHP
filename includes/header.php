@@ -33,6 +33,15 @@
 
             </ul>
 
+            <?php
+
+            if(isset($_SESSION["user"])){
+                echo '<li class="nav-item">Hello ' + $_SESSION["user"] + "!";
+            }else{
+                echo '<li class="nav-item"><a class="nav-link"' href="login.php"
+            }
+            ?>
+
 
         </div>
     </nav>
